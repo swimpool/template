@@ -28,7 +28,6 @@
   <resources>
     <resource name='index.html' />
     <resource name='settings.html' />
-    <resource name='js/lib/gecko-utils.js' />
     <resource name='js/widget.js' />
     <resource name='js/settings.js' />
     <resource name='css/widget.css' />
